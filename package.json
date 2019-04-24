@@ -1,0 +1,17 @@
+{
+  "name": "electrondemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "sinnkirou",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^4.1.4"
+  }
+}
